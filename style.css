@@ -10,3 +10,12 @@
 	height:40px;
 	font-size: 20px;
 }
+#search button{
+	margin-left: 40%;
+	margin-top: 5%;
+	color: white;
+}
+#search .btn{
+		background-color: #90b70c ;
+
+}

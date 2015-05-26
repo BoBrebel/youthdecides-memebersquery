@@ -18,7 +18,10 @@
 	<section id="search">
 		<div class="container">
 			<img src="images/Youth Decides.png">
+			<form>
 			<input type="text" class="form-control" placeholder="Search for member">
+			<button type="submit" class="btn">Search</button>
+			</form>
 		</div>
 	</section>
 	
