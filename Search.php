@@ -11,8 +11,14 @@
 
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
+	<section id="search">
+		<div class="container">
+		 <input type="text" class="form-control" placeholder="Your search here">
+		</div>
+	</section>
 	
 </body>
 </html>
